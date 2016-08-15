@@ -1,0 +1,6 @@
+c:\users\saul_manich\documents\visual studio 2012\Projects\AlgoritmoDelElefante\AlgoritmoDelElefante\bin\Debug\AlgoritmoDelElefante.exe.config
+c:\users\saul_manich\documents\visual studio 2012\Projects\AlgoritmoDelElefante\AlgoritmoDelElefante\bin\Debug\AlgoritmoDelElefante.exe
+c:\users\saul_manich\documents\visual studio 2012\Projects\AlgoritmoDelElefante\AlgoritmoDelElefante\bin\Debug\AlgoritmoDelElefante.pdb
+c:\users\saul_manich\documents\visual studio 2012\Projects\AlgoritmoDelElefante\AlgoritmoDelElefante\obj\Debug\AlgoritmoDelElefante.csprojResolveAssemblyReference.cache
+c:\users\saul_manich\documents\visual studio 2012\Projects\AlgoritmoDelElefante\AlgoritmoDelElefante\obj\Debug\AlgoritmoDelElefante.exe
+c:\users\saul_manich\documents\visual studio 2012\Projects\AlgoritmoDelElefante\AlgoritmoDelElefante\obj\Debug\AlgoritmoDelElefante.pdb
